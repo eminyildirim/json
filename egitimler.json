@@ -1,0 +1,28 @@
+﻿{
+  "egitimler":[
+  {
+	"id":"1",
+	"ad":"Android Eğitimi",
+	"saat":"160",
+	"egitmeni":"Şerif GÜNGÖR",
+	"konulari":"ReecyclerView,JSON,XML,Firebase,Services,Glide,Volley,Retrofit,GSON",
+	"sinif":"Lab 09"
+  },
+  {
+	"id":"2",
+	"ad":"Python Eğitimi",
+	"saat":"80",
+	"egitmeni":"Mustafa YILMAZ",
+	"konulari":"Değişkenler,Döngüler,Fonksiyonlar,OOP,Python GUI,SQLite,CGI WEB",
+	"sinif":"Lab 08"
+  },
+  {
+	"id":"3",
+	"ad":"CSharp 2",
+	"saat":"80",
+	"egitmeni":"Yasin",
+	"konulari":"Windows Form",
+	"sinif":"Lab 02"
+  }
+  ]
+}
