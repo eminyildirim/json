@@ -18,9 +18,18 @@
   },
   {
 	"id":"3",
+	"ad":"CSharp 1",
+	"saat":"80",
+	"egitmeni":"Sedef Hoca",
+	"konulari":"c# 1",
+	"sinif":"Lab 02"
+  }
+	  ,
+  {
+	"id":"4",
 	"ad":"CSharp 2",
 	"saat":"80",
-	"egitmeni":"Yasin",
+	"egitmeni":"Yasin Hoca",
 	"konulari":"Windows Form",
 	"sinif":"Lab 02"
   }
