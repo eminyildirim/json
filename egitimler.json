@@ -31,6 +31,14 @@
 	"egitmeni":"Yasin Hoca",
 	"konulari":"Windows Form",
 	"sinif":"Lab 02"
+  },
+  {
+	"id":"5",
+	"ad":"CSharp 3",
+	"saat":"80",
+	"egitmeni":"Yasin Hoca",
+	"konulari":"Windows Form",
+	"sinif":"Lab 03"
   }
   ]
 }
